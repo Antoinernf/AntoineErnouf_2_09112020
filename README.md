@@ -12,3 +12,7 @@ PLAN DES SECTIONS :
 * Section 3 : Hebergement de la ville recherché
 * Section 4 : Villes Populaires
 * Section 5 : Activités par ville
+
+     
+     
+      
