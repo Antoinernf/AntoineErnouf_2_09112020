@@ -2,12 +2,6 @@
 
   /* Section 3 : Hébergement de recherche */ 
 
-  /* CONTENU */ 
-h2 {
-      margin: 5px;
-      padding: 0px;
-  }
-
   /* texte de résultat de logement */ 
 .resultatLogement i {
     padding: 10px;
